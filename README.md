@@ -1,19 +1,10 @@
 # Python for Geospatial Analysis
 
-**By [Tomas Beuzen](https://www.tomasbeuzen.com/) 🚀**
-
-Welcome to Python for Geospatial Analysis! With this [website](https://www.tomasbeuzen.com/python-for-geospatial-analysis/) I aim to provide a crashcourse introduction to using Python to wrangle, plot, and model geospatial data. We'll be using libraries such as `geopandas`, `plotly`, `keplergl`, and `pykrige` to these ends.
+Welcome to Python for Geospatial Analysis! I aim to provide a crashcourse introduction to using Python to wrangle, plot, and model geospatial data. We'll be using libraries such as `geopandas`, `plotly`, `keplergl`, and `pykrige` to these ends.
 
 ```{image} docs/logo.png
 :width: 250px
 :align: center
-```
-
-```{tip}
-If you're interested in learning more about Python packages, check out my other resources:
-- [Python Packaging](https://py-pkgs.org/)
-- [Python Programming for Data Science](https://www.tomasbeuzen.com/python-programming-for-data-science/README.html)
-- [Deep Learning with PyTorch](https://www.tomasbeuzen.com/deep-learning-with-pytorch/)
 ```
 
 ```{note}
@@ -26,7 +17,7 @@ The material on this site is written in Jupyter notebooks and rendered using [Ju
 
 1. Clone the GitHub repository:
    ```sh
-   git clone https://github.com/TomasBeuzen/python-for-geospatial-analysis.git
+   git clone https://github.com/jswebguru/geospatial-analysis.git
    ```
 2. Install the conda environment by typing the following in your terminal:
    ```sh
